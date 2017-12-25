@@ -145,6 +145,7 @@
     <ClInclude Include="base\config.hpp" />
     <ClInclude Include="base\slist.hpp" />
     <ClInclude Include="base\svector.hpp" />
+    <ClInclude Include="base\tls.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />

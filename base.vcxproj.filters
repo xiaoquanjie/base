@@ -27,6 +27,9 @@
     <ClInclude Include="base\svector.hpp">
       <Filter>base</Filter>
     </ClInclude>
+    <ClInclude Include="base\tls.hpp">
+      <Filter>base</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
