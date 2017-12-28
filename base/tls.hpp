@@ -11,8 +11,8 @@
 // °æ±¾£ºV1.0.0
 //----------------------------------------------------------------*/
 
-#ifndef M_NETIO_TLS_INCLUDE
-#define M_NETIO_TLS_INCLUDE
+#ifndef M_BASE_TLS_INCLUDE
+#define M_BASE_TLS_INCLUDE
 
 #include "base/config.hpp"
 #include <assert.h>

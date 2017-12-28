@@ -142,6 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="base\circular_queue.hpp" />
     <ClInclude Include="base\config.hpp" />
     <ClInclude Include="base\slist.hpp" />
     <ClInclude Include="base\svector.hpp" />
