@@ -20,13 +20,6 @@ public:
 		_element = (T*)malloc(sizeof(T)*_cap);
 	}
 
-	circular_queue() {
-		_head = 0;
-		_tail = 0;
-		_cap = 1025;
-		_element = (T*)malloc(sizeof(T)*_cap);
-	}
-
 	~circular_queue() {
 		clear();
 		free(_element);
